@@ -43,4 +43,3 @@ send_quote_email( $customer_email, $customer_name, $message, $quote_id );
 - Edit the templates in `woocommerce/emails/quote-reply.php` and `woocommerce/emails/plain/quote-reply.php` to change the email content.
 - Modify `class-wc-email-quote-reply.php` to adjust email settings or behavior.
 
-```
